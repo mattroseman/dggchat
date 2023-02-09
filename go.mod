@@ -1,4 +1,4 @@
-module github.com/MemeLabs/dggchat
+module github.com/mattroseman/dggchat
 
 go 1.15
 
